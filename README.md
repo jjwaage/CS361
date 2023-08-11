@@ -9,4 +9,4 @@ To test the microservice, you can use the internet by sending HTTP requests to i
 For example:
     running http://localhost:5000/user/1 will return a JSON reponse with the user details!
     
-Go to https://github.com/jjwaage/CS361.wiki.git for the UML Diagram
+Go to the Wiki for the UML Diagram
