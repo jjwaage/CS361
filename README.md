@@ -1,7 +1,7 @@
 # CS361
 
 To start the microservice, you run:
-    python user_srvice.py
+    python user_service.py
 
 It will start running on http://localhost:5000
 
